@@ -8,12 +8,28 @@
 		<title>PWP Milestone 1 Doc</title>
 	</head>
 	<body>
+
 		<h2>Purpose:</h2>
-		<p></p>
+
+		<p>To exhibit my technical skills/experience with Web-based technologies.</p>
+
 		<h2>Audience:</h2>
-		<p></p>
+
+		<p>Potential Employers & people I have met at networking events.</p>
+
 		<h2>Goal:</h2>
-		<p></p>
+
+		<p>To attract potential employers and get a job.</p>
+
+		<h2>Persona:</h2>
+
+		<h3>Name: Will Ventures </h3>
+		<h3>Description: Will utilizes LinkedIn and networking events to help find tech-talent for local tech companies.</h3>
+		<h3>Goals: Find the best candidates as quickly as possible.</h3>
+		<h3>Frustration: Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume websites.
+			Will wants content that jumps off the page and separates his desired candidates from the rest of the Herd </h3>
+		<h3>Additional Info:</h3>
 
 	</body>
 </html>
+
