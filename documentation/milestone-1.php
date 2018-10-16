@@ -12,11 +12,11 @@
 
 		<h2>Purpose:</h2>
 
-		<p>To exhibit my technical skills/experience with Web-based technologies.</p>
+		<p>This project will be a digital portfolio where I can exhibit my technical skills and experience with Web-based technologies.</p>
 
 		<h2>Audience:</h2>
 
-		<p>Potential Employers & people that I have met at networking events.</p>
+		<p> This website is designed Potential Employers & people that I have met at networking events.</p>
 
 		<h2>Goal:</h2>
 
@@ -24,18 +24,19 @@
 
 		<br/>
 		<br/>
-		
+
 
 		<h2>Persona:</h2>
 		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
-		<h3>Name: Will Ventures </h3>
-		<h3>Description: Will utilizes LinkedIn and networking events to help find tech-talent for local tech
-			companies.</h3>
-		<h3>Goals: Find the best candidates as quickly as possible.</h3>
-		<h3>Frustration: Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume
+		<p><strong>Name:</strong> Will Ventures </p>
+		<p><strong>Age:</strong> 35</p>
+		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to help find tech-talent for local tech
+			companies.</p>
+		<p>Goals: Find the best candidates as quickly as possible.</p>
+		<p><strong>Frustration and Needs:</strong> Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume
 			websites.
-			Will wants content that jumps off the page and separates his desired candidates from the rest of the Herd </h3>
-		<h3>Additional Info:</h3>
+			Will wants content that jumps off the page and separates his desired candidates from the rest of the Herd </p>
+		<p>User Story:</p>
 
 	</body>
 </html>
