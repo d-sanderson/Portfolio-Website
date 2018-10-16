@@ -12,11 +12,12 @@
 
 		<h2>Purpose:</h2>
 
-		<p>This project will be a digital portfolio where I can exhibit my technical skills and experience with Web-based technologies.</p>
+		<p>The purpose of this project is to create a digital portfolio where I can exhibit my technical expertise and experience with web-based technologies.</p>
 
 		<h2>Audience:</h2>
 
-		<p> This website is designed Potential Employers & people that I have met at networking events.</p>
+		<p> This website is designed for potential employers & people that I have met at tech-related networking events.
+		I want to be able to </p>
 
 		<h2>Goal:</h2>
 
@@ -30,7 +31,8 @@
 		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
 		<p><strong>Name:</strong> Will Ventures </p>
 		<p><strong>Age:</strong> 35</p>
-		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to help find tech-talent for local tech
+		<p><strong>Occuations:</strong> Local Tech Recruiter</p>
+		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to help find tech-talent for a variety oflocal tech
 			companies.</p>
 		<p>Goals: Find the best candidates as quickly as possible.</p>
 		<p><strong>Frustration and Needs:</strong> Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume
