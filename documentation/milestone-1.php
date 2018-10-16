@@ -32,7 +32,8 @@
 		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
 		<p><strong>Name:</strong> Will Ventures </p>
 		<p><strong>Age:</strong> 35</p>
-		<p><strong>Occuations:</strong> Local Tech Recruiter</p>
+		<p><strong>Occupation:</strong> Local Tech Recruiter</p>
+		<p><strong>Technology Used:</strong> </p>
 		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to help find tech-talent for a variety oflocal tech
 			companies.</p>
 		<p><strong>Goals:</strong> Find the most qualified candidates as quickly as possible.</p>
