@@ -16,20 +16,24 @@
 
 		<h2>Audience:</h2>
 
-		<p>Potential Employers & people I have met at networking events.</p>
+		<p>Potential Employers & people that I have met at networking events.</p>
 
 		<h2>Goal:</h2>
 
 		<p>To attract potential employers and <strong>get a job.</strong></p>
 
+		<br/>
+		<br/>
+		
 
-		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
 		<h2>Persona:</h2>
-
+		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
 		<h3>Name: Will Ventures </h3>
-		<h3>Description: Will utilizes LinkedIn and networking events to help find tech-talent for local tech companies.</h3>
+		<h3>Description: Will utilizes LinkedIn and networking events to help find tech-talent for local tech
+			companies.</h3>
 		<h3>Goals: Find the best candidates as quickly as possible.</h3>
-		<h3>Frustration: Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume websites.
+		<h3>Frustration: Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume
+			websites.
 			Will wants content that jumps off the page and separates his desired candidates from the rest of the Herd </h3>
 		<h3>Additional Info:</h3>
 
