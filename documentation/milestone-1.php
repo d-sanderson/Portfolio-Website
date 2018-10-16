@@ -8,6 +8,7 @@
 		<title>PWP Milestone 1 Doc</title>
 	</head>
 	<body>
+		<a href="../index.html"> Back</a>
 
 		<h2>Purpose:</h2>
 
@@ -19,8 +20,10 @@
 
 		<h2>Goal:</h2>
 
-		<p>To attract potential employers and get a job.</p>
+		<p>To attract potential employers and <strong>get a job.</strong></p>
 
+
+		<img src="recruiter.jpg" alt="recruiterstockphoto"/>
 		<h2>Persona:</h2>
 
 		<h3>Name: Will Ventures </h3>
