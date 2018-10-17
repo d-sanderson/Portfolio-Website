@@ -16,8 +16,8 @@
 		<p>The purpose of this project is to create a digital portfolio where I can exhibit my technical expertise and experience with web-based technologies.</p>
 
 		<h2>Audience:</h2>
-		<p> This website is designed primarily for potential employers and tech professionals. Ideally visitors will view this page after meeting me personally at a tech networking event.
-			They may also come across my site via various social media channedls.</p>
+		<p> This website is primariy designed for potential employers and tech professionals. Ideally visitors will view this page after meeting me in person at a tech networking event.
+			They may also come across my site via various social media channels.</p>
 
 		<h2>Goal:</h2>
 
@@ -32,13 +32,13 @@
 		<p><strong>Name:</strong> Will Ventures </p>
 		<p><strong>Age:</strong> 35</p>
 		<p><strong>Occupation:</strong> Tech Recruiter </p>
-		<p><strong>Technology Used: Apple Evangelical. Will utilizes Macbook Pro from 2016 and the newest and most shiny iPhone X.</strong> </p>
-		<p><strong>Description:</strong> Will utilizes LinkedIn and local networking events to help find tech-talent for a variety of local tech
+		<p><strong>Technology Used: Apple Evangelical. Will utilizes a Macbook Pro from 2016 and the newest, shiniest iPhone X.</strong> </p>
+		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to scout local tech-talent and feed them to local tech
 			companies.</p>
 		<p><strong>Goals:</strong> Find the most qualified candidates as quickly as possible.</p>
 		<p><strong>Frustration and Needs:</strong> Will gets tired of looking rummaging through the same old generic LinkedIn profiles and Resume
 			websites.
-			Will wants content that jumps off the page and separates his desired candidates from the rest of the Herd </p>
+			Will wants content that jumps off the page and separates his desired candidates from the rest of the herd </p>
 		<p>User Story:</p>
 
 	</body>
