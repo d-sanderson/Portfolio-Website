@@ -32,7 +32,7 @@
 		<p><strong>Name:</strong> Will Ventures </p>
 		<p><strong>Age:</strong> 35</p>
 		<p><strong>Occupation:</strong> Tech Recruiter </p>
-		<p><strong>Technology Used: Apple Evangelical. Will utilizes a Macbook Pro from 2016 and the newest, shiniest iPhone X.</strong> </p>
+		<p><strong>Technology Used:</strong> Apple Evangelical. Will utilizes a Macbook Pro from 2016 and the newest, shiniest iPhone X.</p>
 		<p><strong>Description:</strong> Will utilizes LinkedIn and networking events to scout local tech-talent and feed them to local tech
 			companies.</p>
 		<p><strong>Goals:</strong> Find the most qualified candidates as quickly as possible.</p>
