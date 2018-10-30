@@ -15,3 +15,32 @@ input {
 textarea {
 	display: block;
 }
+
+.form-wrapper {
+	background-color: blue;
+	color: azure;
+	padding: 15px 35px;
+	padding-bottom: 35px;
+}
+input, textarea {
+	display: block;
+	width: 365px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	padding-left: 15px;
+	font-family: monospace;
+}
+
+input {
+	height: 35px;
+}
+
+button {
+	background-color: black;
+	color: white;
+	width: 100px;
+	height:30px;
+	font-weight: bold;
+	border: 0;
+	-webkit-appearance: none;
+}
