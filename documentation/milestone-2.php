@@ -8,11 +8,13 @@
 	</head>
 
 	<h1>Content Strategy</h1>
-	<p>My Personal Website will have a simple, elegant design. I will use bootstrap to make my content mobile-friendly and
+	<p>My Personal Website will have a simple, elegant design. I will use bootstrap to make my content mobile-friendly
+		and
 		css styles to build out my own unique theme. My Content Strategy will be three-fold: 1) It will draw visitors
 		in with a simple layout that exhibits my Front-End Dev skills. 2) It will have a Portfolio section that shows off
 		my front and backend skills and 3) It will have a sticky footer that allows viewers to visit my work on other
 		outlets.
+		<br/>
 		<br/>
 		My website will consist of the following 6 sections:
 
@@ -21,12 +23,14 @@
 		impression! I want it to be simple but thoughtfully formatted. It will have my name, title of "Full-Stack Web
 		Developer" and perhaps a simple CSS drawing (that may change seasonally) and css gradient for a background.</p>
 	<h2>About:</h2>
-	<p>This section will include a brief "elevator pitch" about myself. I want it to highlight my skills and recent work experience (and languages I am most proficient in) while also giving the reader an idea of my
+	<p>This section will include a brief "elevator pitch" about myself. I want it to highlight my skills and recent work
+		experience (and languages I am most proficient in) while also giving the reader an idea of my
 		background, personality and interests.
 	</p>
 	<h2>Portfolio:</h2>
 	<p>This section will be frequently updated as I continue to add new projects to my portfolio. I want it to have a
-		card layout with an image and description that viewers can scroll through. Th so potential employers can become more
+		card layout with an image and description that viewers can scroll through. Th so potential employers can become
+		more
 		familiar with my project experience and abilities. </p>
 	<h2>Testimonials:</h2>
 	<p>This portion of the site will consist of quotes from fellow deep divers that highlight their experience working
@@ -37,7 +41,8 @@
 		will adhere to all the guidelines put forth by Deep Dive Instructors so that it is secure and sanitizes all user
 		input.</p>
 	<h2>Footer:</h2>
-	<p>This will be the last piece and most simple part to code. It will be a sticky footer with a black background that includes
+	<p>This will be the last piece and most simple part to code. It will be a sticky footer with a black background that
+		includes
 		links to my other channels such as Github, Twitter, Codepen, and LinkedIn.</p>
 
 	<h2>WireFrames</h2>
