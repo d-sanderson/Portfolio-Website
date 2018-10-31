@@ -7,7 +7,7 @@
 		<title>PWP Milestone 2A</title>
 	</head>
 
-	<h2><strong>Content Strategy</strong></h2>
+	<h1>Content Strategy</h1>
 	<p>My Personal Website will have a simple, elegant design. I will use bootstrap to make my content mobile-friendly and
 		css styles to build out my own unique theme. My Content Strategy will be three-fold: 1) It will draw visitors
 		in with a simple layout that exhibits my Front-End Dev skills. 2) It will have a Portfolio section that shows off
