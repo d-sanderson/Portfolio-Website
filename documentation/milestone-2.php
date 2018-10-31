@@ -37,9 +37,8 @@
 		will adhere to all the guidelines put forth by Deep Dive Instructors so that it is secure and sanitizes all user
 		input.</p>
 	<h3>Footer:</h3>
-	<p>This will be the last piece and most simple part to code. It will be a sticky footer with a black background and
-		links to my other channels such as
-		Github, Twitter, Codepen, and LinkedIn.</p>
+	<p>This will be the last piece and most simple part to code. It will be a sticky footer with a black background that includes
+		links to my other channels such as Github, Twitter, Codepen, and LinkedIn.</p>
 
 	<h2>WireFrames</h2>
 
