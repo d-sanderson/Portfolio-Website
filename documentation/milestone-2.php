@@ -21,7 +21,7 @@
 		impression! I want it to be simple but thoughtfully formatted. It will have my name, title of "Full-Stack Web
 		Developer" and perhaps a simple CSS drawing (that may change seasonally) and css gradient for a background.</p>
 	<h3>About:</h3>
-	<p>This section will include a brief "elevator pitch" about myself. I want it to highlight my skills and recent work experience (and languages I am most proficient in) while giving the reader an idea of my
+	<p>This section will include a brief "elevator pitch" about myself. I want it to highlight my skills and recent work experience (and languages I am most proficient in) while also giving the reader an idea of my
 		background, personality and interests.
 	</p>
 	<h3>Portfolio:</h3>
