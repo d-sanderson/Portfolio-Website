@@ -47,10 +47,10 @@
 
 	<h2>WireFrames</h2>
 
-	<h2>Mobile</h2>
+	<h2>Mobile:</h2>
 	<img src="Mobile%20View.png" alt="mobile mock-up">
 
-	<h2>Desktop</h2>
+	<h2>Desktop:</h2>
 	<img src="Desktop.png" alt="desktop mock-up">
 
 </html>
