@@ -8,32 +8,34 @@
 	</head>
 
 	<h1>Content Strategy</h1>
-	<p>My Personal Website will have a simple, elegant design. I will use bootstrap to make my content mobile-friendly
-		and
-		css styles to build out my own unique theme. My Content Strategy will be three-fold: 1) It will draw visitors
+	<p>My Personal Website will have a simple, elegant design. It will implement bootstrap to make my content mobile-friendly
+		and select css styles to build out my own unique theme. My Content Strategy will be three-fold: 1) It will draw visitors
 		in with a simple layout that exhibits my Front-End Dev skills. 2) It will have a Portfolio section that shows off
-		my front and backend skills and 3) It will have a sticky footer that allows viewers to visit my work on other
+		my front and backend skills and 3) It will have a easy to access links that allows viewers to visit my work on other
 		outlets.
 		<br/>
 		<br/>
-		My website will consist of the following 6 sections:
+		My website will consist of the following sections:
 
+	<h2>Header/NavBar:</h2>
+	<p>The Nav bar will be the same color as the Splash page so they blend together and will have links to the various
+		sections of my site.</p>
 	<h2>Splash:</h2>
-	<p>This will be the first section that someone sees when they land on my site so its important that it makes a good
-		impression! I want it to be simple but thoughtfully formatted. It will have my name, title of "Full-Stack Web
-		Developer" and perhaps a simple CSS drawing (that may change seasonally) and css gradient for a background.</p>
+	<p>The Splash and Navbar section will be the first thing the user sees when they land on my site so its important
+		that it is easy to use and makes a good impression! I want it to be simple but thoughtfully formatted. It will have my name, title of
+		"Full-Stack Web Developer" and perhaps a simple CSS drawing (that may change seasonally) and css gradient for a
+		background.</p>
 	<h2>About:</h2>
 	<p>This section will include a brief "elevator pitch" about myself. I want it to highlight my skills and recent work
-		experience (and languages I am most proficient in) while also giving the reader an idea of my
-		background, personality and interests.
+		experience (and programming languages I am most proficient in) while also giving the reader an idea of my background,
+		personality and interests.
 	</p>
 	<h2>Portfolio:</h2>
 	<p>This section will be frequently updated as I continue to add new projects to my portfolio. I want it to have a
-		card layout with an image and description that viewers can scroll through. Th so potential employers can become
-		more
-		familiar with my project experience and abilities. </p>
+		carousel layout with an image and description that viewers can scroll through to become familiar with my project
+		experience and abilities. </p>
 	<h2>Testimonials:</h2>
-	<p>This portion of the site will consist of quotes from fellow deep divers that highlight their experience working
+	<p>This portion of the site will consist of quotes from fellow deep divers and future colleagues that highlight their experience working
 		with me and the skillset I brought to the table. I want this section to be a carousel that cycles through various
 		testimonials.</p>
 	<h2>Contact:</h2>
