@@ -12,5 +12,7 @@ I am a little annoyed you did not act on the feedback I provided you before Mile
  * Going forward the type of errors highlighted by the W3validator Report will impact your grade in the class. 
  ### Grade Tier III
 
+## Milestone 2a Feedback
+Nice job on your Milestone 2a! Your wireframes look great, you clearly put a lot of thought into the content on your site. Your content strategy lines up well with the persona you defined. I personally like the design a lot for a simple personal site, and think you will have an easy time coding it up since it's so fleshed out!
 
-
+Your Milestone 2a passes at a Tier III. Good job!
