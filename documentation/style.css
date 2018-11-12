@@ -1,12 +1,3 @@
-:root{
-	--lightBG: #ccc;
-	--darkBG: #000;
-}
-
-.dark {
-	background-color: var(--darkBG);
-	color: var(--lightBG);
-}
 
 .cool-link {
 	display: inline-block;
@@ -26,4 +17,10 @@
 .cool-link:hover::after {
 	width: 100%;
 //transition: width .3s;
+}
+
+.text-justify {
+	font-family: 'Signika', sans-serif;
+
+
 }
