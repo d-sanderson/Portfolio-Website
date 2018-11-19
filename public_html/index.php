@@ -15,7 +15,7 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
 				integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<!--Custom CSS-->
-		<link rel="stylesheet" href="./documentation/style.css">
+		<link rel="stylesheet" href="css/style.css">
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -39,7 +39,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
+		<script src="public_html/js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -54,7 +54,7 @@
 
 		<header>
 			<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white shadow-sm rounded">
-				<a class="navbar-brand ml-3" href="#"><img src="cactus.png" alt="cactus" class="img-responsive"> </a>
+				<a class="navbar-brand ml-3" href="#"><img src="images/cactus.png" alt="cactus" class="img-responsive"> </a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 						  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -150,7 +150,7 @@
 						</div>
 						<div class="card">
 							<h5 class="card-title text-center">505FoodTruckFinder</h5>
-							<img class="card-img-top" src="505foodtrucklogo.png" alt="Card image cap">
+							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
 							<div class="card-body">
 								<p class="card-text text-monospace">Part of a small dev team that built an application to connect Foodtruck owners with their customers. Used PHP, MYSQL, and Google Maps JavaScript API for the backend and Angular the front end. </p>
 								<p class="card-text"><small class="text-muted">Last updated November 12, 2018</small></p>
@@ -173,9 +173,9 @@
 		<!-- Testimonials -->
 
 		<section>
-			<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right">Testimonials</h1>
-			<div class="container-fluid bg-dark" id="testimonials">
-				<div class="container">
+
+			<div class="container bg-dark" id="testimonials">
+				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 pr-5">Testimonials</h1>
 
 					<div class="row">
 						<div class="col-md-2"></div>
@@ -212,7 +212,7 @@
 						</div>
 						<div class="col-md-2"></div>
 					</div>
-				</div>
+
 			</div>
 		</section>
 
@@ -276,11 +276,13 @@
 									<textarea name="message" rows="5" id="message" class="form-control"
 												 placeholder="Have a question or a professional inquiry? Leave a message!"></textarea>
 								</div>
+								<div class="g-recaptcha" data-sitekey="6LeRznsUAAAAAMdkxUPFa6KLY_rjEiPs3PlBwzo-"></div>
 							</div>
 							<div class="list-group">
 								<button class="btn btn-success" type="submit">Submit</button>
 								<button class="btn btn-dark" type="reset">Reset</button>
 							</div>
+
 						</form>
 					</div>
 				</div>
