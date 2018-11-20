@@ -114,10 +114,10 @@
 						<h1 class="font-weight-bold text-monospace display-5">About</h1>
 					</div>
 					<div class="col-lg-7 col-lg-offset-5  col-xs-12 col-xs-offset-0">
-						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a Full-stack Web developer with
+						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a New Mexican who loves to program. I have
 							experience using web technologies that include <span
-								class="lead text-primary">Angular, JS, CSS, HTML, PHP,</span> and <span
-								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am an enthusiastic
+								class="lead text-primary">Angular5, JavaScript, CSS, HTML, PHP,</span> and <span
+								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am passionate about building things and want to work on projec that stimulate Albuquerque's economy! I am an enthusiastic
 							learner who excels in environments where I can problem solve and contribute to a team. I was on the
 							dev team for 505FoodTruckFinder which was a contestant in the UNM App contest. I worked intensively
 							on the Google Maps Javascript API integration during this project. In my free time enjoy exploring New Mexico and working on puzzles. I  am currently learning React
@@ -152,7 +152,7 @@
 							<h5 class="card-title text-center">505FoodTruckFinder</h5>
 							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text text-monospace">Part of a small dev team that built an application to connect Foodtruck owners with their customers. Used PHP, MYSQL, and Google Maps JavaScript API for the backend and Angular the front end. </p>
+								<p class="card-text">Part of a small dev team that built an application to connect Foodtruck owners with their customers. Problem: Finding infomation Used PHP, MYSQL, and Google Maps JavaScript API for the backend and Angular the front end. </p>
 								<p class="card-text"><small class="text-muted">Last updated November 12, 2018</small></p>
 							</div>
 						</div>
