@@ -143,7 +143,7 @@
 			<h1 class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
 			<div class="container-fluid">
 
-				<div class="row rounded shadow">
+				<div class="row rounded shadow-lg">
 
 					<div class="card-columns mx-5 px-5">
 
@@ -174,14 +174,14 @@
 							</div>
 						</div>
 						<div class="card bg-primary">
-							<h5 class="card-title text-center">505FoodTruckFinder</h5>
+							<h5 class="card-title text-center text-monospace">505FoodTruckFinder</h5>
 							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Part of a small dev team that built an application to connect Foodtruck
+								<p class="card-text text-white">Part of a small dev team that built an application to connect Foodtruck
 									owners with their customers. Problem: Finding infomation Used PHP, MYSQL, and Google Maps
 									JavaScript API for the backend and Angular the front end. </p>
 								<p class="card-text">
-									<small class="text-muted">Last updated November 12, 2018</small>
+									<small class="text-white">Last updated November 12, 2018</small>
 								</p>
 							</div>
 						</div>
@@ -234,7 +234,7 @@
 
 		<section>
 
-			<div class="container bg-dark" id="testimonials">
+			<div class="container bg-dark my-5" id="testimonials">
 				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 pr-5">
 					Testimonials</h1>
 
