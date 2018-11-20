@@ -29,7 +29,7 @@ body {
 //transition: width .3s;
 }
 
-.text-justify {
+.text-justify, .card-text {
 	font-family: 'Signika', sans-serif;
 
 

@@ -34,9 +34,12 @@
 				  crossorigin="anonymous"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="public_html/js/form-validate.js"></script>
@@ -64,7 +67,7 @@
 					<ul class="navbar-nav mx-auto">
 						<li class="nav-item">
 							<a class="nav-link text-monospace cool-link" href="#home">Home <span
-								class="sr-only">(current)</span></a>
+									class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link text-monospace cool-link" href="#about">About</a>
@@ -114,14 +117,18 @@
 						<h1 class="font-weight-bold text-monospace display-5">About</h1>
 					</div>
 					<div class="col-lg-7 col-lg-offset-5  col-xs-12 col-xs-offset-0">
-						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a New Mexican who loves to program. I have
+						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a New Mexican who loves to program.
+							I have
 							experience using web technologies that include <span
 								class="lead text-primary">Angular5, JavaScript, CSS, HTML, PHP,</span> and <span
-								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am passionate about building things and want to work on projec that stimulate Albuquerque's economy! I am an enthusiastic
-							learner who excels in environments where I can problem solve and contribute to a team. I was on the
-							dev team for 505FoodTruckFinder which was a contestant in the UNM App contest. I worked intensively
-							on the Google Maps Javascript API integration during this project. In my free time enjoy exploring New Mexico and working on puzzles. I  am currently learning React
-							and Node.js in my free time.
+								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am passionate using
+							these technologies to build businesses and products that strengthen our community and stimulate our
+							economy! I was a part of a small
+							dev team that developed 505FoodTruckFinder which was a contestant in the UNM App contest. I
+							intensively
+							on the Google Maps Javascript API integration during this project. When I am not programming, I
+							enjoy exploring New Mexico and working on puzzles. I am currently learning React
+							Node.js, and three.js in my free time. What can we build together?
 						</p>
 					</div>
 				</div>
@@ -132,40 +139,93 @@
 		<!-- Portfolio -->
 
 
-		<section id="portfolio" class="bg-light py-5">
-			<h1 class="font-weight-bold text-center text-monospace display-5 pb-3">Portfolio</h1>
-			<div class="container-fluid py-3
-			 my-3">
+		<section id="portfolio" class="bg-light">
+			<h1 class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
+			<div class="container-fluid">
 
-				<div class="row py-3 bg-light rounded shadow">
+				<div class="row rounded shadow">
 
-					<div class="card-deck mx-3">
-						<div class="card">
+					<div class="card-columns mx-5 px-5">
+
+						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">MonoSpace Clock</h5>
-								<p class="card-text"> </p>
-								<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-							</div>
-						</div>
-						<div class="card">
-							<h5 class="card-title text-center">505FoodTruckFinder</h5>
-							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
-							<div class="card-body">
-								<p class="card-text">Part of a small dev team that built an application to connect Foodtruck owners with their customers. Problem: Finding infomation Used PHP, MYSQL, and Google Maps JavaScript API for the backend and Angular the front end. </p>
-								<p class="card-text"><small class="text-muted">Last updated November 12, 2018</small></p>
+								<h5 class="card-title">ABQ Records</h5>
+								<p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+									</p>
+								<p class="card-text">
+									<small class="text-muted">Last updated 3 mins ago</small>
+								</p>
 							</div>
 						</div>
 						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">ABQ Records</h5>
-								<p class="card-text"></p>
-								<p class="card-text"><small class="text-muted">Last updated...</small></p>
+								<h5 class="card-title">Philips Badge Company</h5>
+								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+									</p>
+								<p class="card-text">
+									<small class="text-muted">Last updated...</small>
+								</p>
+							</div>
+						</div>
+						<div class="card bg-primary">
+							<h5 class="card-title text-center">505FoodTruckFinder</h5>
+							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
+							<div class="card-body">
+								<p class="card-text">Part of a small dev team that built an application to connect Foodtruck
+									owners with their customers. Problem: Finding infomation Used PHP, MYSQL, and Google Maps
+									JavaScript API for the backend and Angular the front end. </p>
+								<p class="card-text">
+									<small class="text-muted">Last updated November 12, 2018</small>
+								</p>
+							</div>
+						</div>
+						<div class="card bg-dark">
+							<img class="card-img-top" src="..." alt="Card image cap">
+							<div class="card-body">
+								<h5 class="card-title">MadLibs</h5>
+								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+								</p>
+								<p class="card-text">
+									<small class="text-muted">Last updated...</small>
+								</p>
+							</div>
+						</div>
+							<div class="card bg-dark">
+								<img class="card-img-top" src="..." alt="Card image cap">
+								<div class="card-body">
+									<h5 class="card-title">Analog Clock</h5>
+									<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+										exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+										</p>
+									<p class="card-text">
+										<small class="text-muted">Last updated...</small>
+									</p>
+								</div>
+							</div>
+							<div class="card bg-dark">
+								<img class="card-img-top" src="..." alt="Card image cap">
+								<div class="card-body">
+									<h5 class="card-title">Turbine</h5>
+									<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+										exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+										</p>
+									<p class="card-text">
+										<small class="text-muted">Last updated...</small>
+									</p>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 			</div>
 		</section>
 
@@ -175,47 +235,47 @@
 		<section>
 
 			<div class="container bg-dark" id="testimonials">
-				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 pr-5">Testimonials</h1>
+				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 pr-5">
+					Testimonials</h1>
 
-					<div class="row">
-						<div class="col-md-2"></div>
-						<div class="col m-1">
-							<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="8000">
-								<ol class="carousel-indicators">
-									<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-									<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-									<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-								</ol>
-								<div class="carousel-inner">
-									<div class="carousel-item active">
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col m-1">
+						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="8000">
+							<ol class="carousel-indicators">
+								<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+								<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+								<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+							</ol>
+							<div class="carousel-inner">
+								<div class="carousel-item active">
 
-										<img class="d-block w-100" src="" alt="slide 1">
-									</div>
-									<div class="carousel-item">
-
-										<img class="d-block w-100" src="" alt="slide 2">
-									</div>
-									<div class="carousel-item">
-
-										<img class="d-block w-100" src="" alt="slide 3">
-									</div>
+									<img class="d-block w-100" src="" alt="slide 1">
 								</div>
-								<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-									<span class="sr-only">Previous</span>
-								</a>
-								<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-									<span class="carousel-control-next-icon" aria-hidden="true"></span>
-									<span class="sr-only">Next</span>
-								</a>
+								<div class="carousel-item">
+
+									<img class="d-block w-100" src="" alt="slide 2">
+								</div>
+								<div class="carousel-item">
+
+									<img class="d-block w-100" src="" alt="slide 3">
+								</div>
 							</div>
+							<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
 						</div>
-						<div class="col-md-2"></div>
 					</div>
+					<div class="col-md-2"></div>
+				</div>
 
 			</div>
 		</section>
-
 
 
 		<!-- Contact Form -->
@@ -330,12 +390,12 @@
 							</a>
 						</li>
 						<li>
-						<a href="https://twitter.com/desertdwellndev" target="_blank" class="text-secondary">
+							<a href="https://twitter.com/desertdwellndev" target="_blank" class="text-secondary">
 							<span class="fa-stack fa-2x">
 							<i class="fas fa-stack-2x"></i>
 							<i class="fab fa-twitter fa-stack-1x"></i>
 							</span>
-						</a>
+							</a>
 						</li>
 					</ul>
 				</div>
