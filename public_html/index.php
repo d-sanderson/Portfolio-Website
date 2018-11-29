@@ -233,8 +233,8 @@
 
 		<section>
 
-			<div class="container bg-dark my-5" id="testimonials">
-				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 pr-5">
+			<div class="container bg-light my-5" id="testimonials">
+				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 px-5">
 					Testimonials</h1>
 
 				<div class="row">
@@ -249,16 +249,20 @@
 							<div class="carousel-inner">
 								<div class="carousel-item active">
 
-									<img class="d-block w-100" src="" alt="slide 1">
+									<img class="d-block w-100" src="./images/testimonial1.jpg" alt="slide 1">
 								</div>
 								<div class="carousel-item">
 
-									<img class="d-block w-100" src="" alt="slide 2">
+
+									<img class="d-block w-100" src="./images/testimonial2.jpg" alt="slide 2">
 								</div>
+
+								<!-- Add testimonial 3
 								<div class="carousel-item">
 
 									<img class="d-block w-100" src="" alt="slide 3">
 								</div>
+								-->
 							</div>
 							<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
