@@ -141,27 +141,26 @@
 			<h1 class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
 			<div class="container-fluid">
 
-				<div class="row rounded shadow-lg">
+				<div class="row rounded shadow-lg m-5">
 
-					<div class="card-columns mx-5 px-5">
-
+					<div class="card-deck">
 						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">ABQ Records</h5>
-								<p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+								<h5 class="card-title text-white text-monospace font-weight-bold text-center">Philips Badge Company</h5>
+								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
 								</p>
 								<p class="card-text">
-									<small class="text-muted">Last updated 3 mins ago</small>
+									<small class="text-muted">Last updated...</small>
 								</p>
 							</div>
 						</div>
 						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">Philips Badge Company</h5>
+								<h5 class="card-title text-white text-monospace font-weight-bold text-center">MadLibs</h5>
 								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
@@ -172,7 +171,7 @@
 							</div>
 						</div>
 						<div class="card bg-primary">
-							<h5 class="card-title text-center text-monospace">505FoodTruckFinder</h5>
+							<h5 class="card-title text-center lead text-monospace text-white font-weight-bold">505FoodTruckFinder</h5>
 							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
 							<div class="card-body">
 								<p class="card-text text-white">Part of a small dev team that built an application to connect
@@ -184,23 +183,10 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark">
+						<div class="card bg-dark text-white text-monospace">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">MadLibs</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-								</p>
-								<p class="card-text">
-									<small class="text-muted">Last updated...</small>
-								</p>
-							</div>
-						</div>
-						<div class="card bg-dark">
-							<img class="card-img-top" src="..." alt="Card image cap">
-							<div class="card-body">
-								<h5 class="card-title">Analog Clock</h5>
+								<h5 class="card-title font-weight-bold text-center">Analog Clock</h5>
 								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
@@ -210,10 +196,10 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark">
+						<div class="card bg-dark text-white text-monospace">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title">Turbine</h5>
+								<h5 class="card-title font-weight-bold text-center">Turbine</h5>
 								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
@@ -225,6 +211,7 @@
 						</div>
 					</div>
 				</div>
+				</div>
 			</div>
 		</section>
 
@@ -234,7 +221,7 @@
 		<section>
 
 			<div class="container bg-light my-5" id="testimonials">
-				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 px-5">
+				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 mb-4 pt-4">
 					Testimonials</h1>
 
 				<div class="row">
