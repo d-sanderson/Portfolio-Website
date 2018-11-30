@@ -147,8 +147,8 @@
 						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title text-white text-monospace font-weight-bold text-center">Philips Badge Company</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+								<h5 class="card-title text-warning text-monospace font-weight-bold text-center">Philips Badge Company</h5>
+								<p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
 								</p>
@@ -160,8 +160,8 @@
 						<div class="card bg-dark">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title text-white text-monospace font-weight-bold text-center">MadLibs</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+								<h5 class="card-title text-warning text-monospace font-weight-bold text-center">MadLibs</h5>
+								<p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
 								</p>
@@ -170,8 +170,8 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-primary">
-							<h5 class="card-title text-center lead text-monospace text-white font-weight-bold">505FoodTruckFinder</h5>
+						<div class="card bg-dark text-monospace">
+							<h5 class="card-title text-center lead text-warning font-weight-bold pt-4">505FoodTruckFinder</h5>
 							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
 							<div class="card-body">
 								<p class="card-text text-white">Part of a small dev team that built an application to connect
@@ -183,11 +183,11 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark text-white text-monospace">
+						<div class="card bg-dark text-monospace">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title font-weight-bold text-center">Analog Clock</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+								<h5 class="card-title font-weight-bold text-center text-warning">Analog Clock</h5>
+								<p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 								</p>
@@ -196,11 +196,11 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark text-white text-monospace">
+						<div class="card bg-dark text-monospace">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
-								<h5 class="card-title font-weight-bold text-center">Turbine</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+								<h5 class="card-title font-weight-bold text-center text-warning">Turbine</h5>
+								<p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 								</p>
