@@ -157,7 +157,7 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark">
+						<div class="card bg-secondary">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title text-warning text-monospace font-weight-bold text-center">MadLibs</h5>
@@ -183,7 +183,7 @@
 								</p>
 							</div>
 						</div>
-						<div class="card bg-dark text-monospace">
+						<div class="card bg-secondary text-monospace">
 							<img class="card-img-top" src="..." alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title font-weight-bold text-center text-warning">Analog Clock</h5>
