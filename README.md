@@ -16,3 +16,16 @@ I am a little annoyed you did not act on the feedback I provided you before Mile
 Nice job on your Milestone 2a! Your wireframes look great, you clearly put a lot of thought into the content on your site. Your content strategy lines up well with the persona you defined. I personally like the design a lot for a simple personal site, and think you will have an easy time coding it up since it's so fleshed out!
 
 Your Milestone 2a passes at a Tier III. Good job!
+
+## Milestone 3
+I love your PWP! To me it looks completely professional and ready to submit to potential employers. Your navbar goes slightly over the top of your page when you select the options up top, but otherwise it's really beautiful and well designed. You also have a few images that are missing in your portfolio cards so be sure not to forget about those.
+
+Your code is super organized and looks great as well. Killer job!
+
+Your Milestone 3 passes at a Tier IV.
+
+Milestone 1 30(0.2) = 6\
+Milestone 2a 30(0.2) = 6\
+Milestone 2b 40(0.1) = 4\
+Milestone 3 40(0.5) = 20\
+Final 38/40
