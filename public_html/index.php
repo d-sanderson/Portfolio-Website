@@ -33,18 +33,18 @@
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+			src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
 		<script
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+			src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 		<script
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+			src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<title>Personal Web Project Main Page</title>
+		<title>David Sanderson</title>
 	</head>
 
 	<body>
@@ -54,7 +54,7 @@
 
 		<header>
 			<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white shadow-sm rounded">
-				<a class="navbar-brand ml-3" href="#"><img src="images/cactus.png" alt="cactus" class="img-responsive"> </a>
+				<a class="navbar-brand ml-3" href="#"><img src="images/cactus.png" alt="cactus" height="75" class="img-responsive" > </a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 						  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -64,7 +64,7 @@
 					<ul class="navbar-nav mx-auto">
 						<li class="nav-item">
 							<a class="nav-link text-monospace cool-link" href="#home">Home <span
-								class="sr-only">(current)</span></a>
+									class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link text-monospace cool-link" href="#about">About</a>
@@ -111,24 +111,25 @@
 			<div class="container py-3">
 				<div class="row shadow p-5 bg-white rounded">
 					<div class="col-sm-12">
-						<h1 class="font-weight-bold text-monospace display-5">About</h1>
+						<h1 class="font-weight-bold text-monospace text-center display-5 mb-3">About</h1>
 					</div>
-					<div class="col-lg-7 col-lg-offset-5  col-xs-12 col-xs-offset-0">
-						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a New Mexican who loves to program.
+					<div class="col-sm-10 offset-1">
+						<p class="text-justify lead"> Hi, my name is David Sanderson! I am a New Mexican who loves to build websites and custom software applications
 							I have
 							experience using web technologies that include <span
-								class="lead text-primary">JavaScript, CSS, HTML, PHP, Angular5, </span> and <span
-								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am passionate about
-							using
-							these technologies to build businesses and products that strengthen our community and stimulate our
-							economy! I was a part of a small
+								class="lead text-primary">JavaScript, PHP, Angular5, Laravel, CSS, HTML, </span> and <span
+								class="lead text-primary">Bootstrap</span> to create custom web solutions. I am determined to
+							use
+							these technologies to build businesses and products that strengthen our community and stimulate our local
+							economy. I was a part of a small
 							dev team that developed 505FoodTruckFinder which was a contestant in the UNM App contest. I worked
 							intensively
-							on the Google Maps Javascript API integration during this project. When I am not programming, I
-							enjoy exploring New Mexico and working on puzzles. I am currently learning React
-							Node.js, and three.js in my free time.
+							on the Google Maps Javascript API integration as well as the front-end design of this project. When I am not programming, I
+							enjoy exploring New Mexico and spending time with my dogs. I am currently learning Laravel, React, and
+							D3 in my free time.
 						</p>
 					</div>
+
 				</div>
 			</div>
 		</section>
@@ -136,41 +137,47 @@
 
 		<!-- Portfolio -->
 
-		<section id="portfolio" class="bg-light">
-			<h1 class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
+		<section class="bg-light">
+			<h1 id="portfolio" class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
 			<div class="container-fluid">
 				<div class="row rounded m-5">
 					<div class="col-lg-12">
 						<div class="card-group">
-							<a class="card bg-light text-monospace border border-dark m-2" href="https://github.com/dsanderson90/react-playground/tree/master/src/MadLibs">
-								<img class="card-img-top" src="http://wfuogb.com/wp-content/uploads/2018/09/madlibs.jpeg" alt="Card image cap">
+							<a class="text-dark card bg-light text-monospace border border-dark m-2" href="https://github.com/dsanderson90/react-playground/tree/master/src/MadLibs">
+								<img class="card-img-top" src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/3d/32/be/3d32bea5-5a06-5af4-6e3e-c0b6692b40a3/source/512x512bb.jpg" alt="Mad Libs logo">
 								<div class="card-block">
-									<h5 class="card-title font-weight-bold text-center">Mad Libs (React)</h5>
+									<h5 class="mt-2 card-title font-weight-bold text-center">Mad Libs </h5>
+
+
 								</div>
 							</a>
-							<a href ="https://github.com/FoodTruckFinder/capstone"class="text-dark card bg-light text-monospace border border-dark m-2">
-								<img class="card-img-top" src="https://github.com/FoodTruckFinder/capstone/blob/master/static-ui/images/FTF-logo.png?raw=true" alt="Card image cap">
+							<a href ="https://github.com/FoodTruckFinder/capstone" class="text-dark card bg-light text-monospace border border-dark m-2">
+								<img class="card-img-top" src="https://github.com/FoodTruckFinder/capstone/blob/master/static-ui/images/FTF-logo.png?raw=true" alt="505 FoodTruck Finder Logo">
 								<div class="card-block">
-									<h5 class="card-title font-weight-bold text-center">505FoodTruckFinder (Angular5)</h5>
+									<h5 class="mt-2 card-title font-weight-bold text-center">505FoodTruckFinder</h5>
+
 								</div>
 							</a>
 							<a href="https://github.com/dsanderson90/starwars-react" class="text-dark card bg-light text-monospace border border-dark m-2">
-								<img class="card-img-top" src="https://cdn.shopify.com/s/files/1/0257/6087/products/0-StarWars-Logo-bk_Single_Front.png?v=1543510625" alt="Card image cap">
+								<img class="card-img-top" src="https://cdn.shopify.com/s/files/1/0257/6087/products/0-StarWars-Logo-bk_Single_Front.png?v=1543510625" alt="Star Wars Logo">
 								<div class="card-block">
-									<h5 class="card-title font-weight-bold text-center">Star Wars (React)</h5>
+									<h5 class="mt-2 card-title font-weight-bold text-center">Star Wars</h5>
+
 								</div>
 							</a>
 						</div>
 					</div>
+				</div>
+			</div>
 
 		</section>
 
 		<!-- Testimonials -->
 
-		<section>
+		<section id="testimonials">
 
-			<div class="container bg-light my-5" id="testimonials">
-				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-right mr-5 mb-4 pt-4">
+			<div class="container bg-light my-5">
+				<h1 id="testimonials-header" class="display-6 font-weight-bold text-monospace text-center mr-5 mb-4 pt-4">
 					Testimonials</h1>
 
 				<div class="row">
@@ -224,75 +231,26 @@
 			<div class="container py-3 border">
 				<div class="row shadow p-3 mb-5 bg-white rounded">
 					<div class="col-sm-12 p-3">
-						<h1 class="font-weight-bold text-right text-monospace text display-6">Contact</h1>
+						<h1 class="font-weight-bold text-center text-monospace text display-6">Contact</h1>
 					</div>
-					<div class="col-sm-6">
-						<p class="lead font-weight-bold"> What can we build <span class="text-success">together?</span> My
+
+					<div class="col-sm-6 offset-3">
+						<p class="text center lead font-weight-bold"> What can we build <span class="text-success">together?</span> My
 							favorite thing about coding is
 							that you can use it to build whatever you want. Thanks for having a look around.
 
-							<br><br> Need a website? Send me an email.
-
+							<br><br> Have a question or professional inquiry? Click the link below to get in touch.
 						</p>
 
+						<div class="logo text-center">
+							<a href="mailto:sanderdj90@gmail.com"><i class="fa-4x fas fa-envelope" aria-hidden="true"></i></a>
+						</div>
 
-					</div>
 
-					<div class="col-sm-6">
-						<form id="contact-form" method="post" action="php/mailer.php">
-							<div class="form-group text-monospace">
-								<label for="name">Name</label>
-								<div class="input-group">
-									<div class="input-group-prepend">
-										<span class="input-group-text"><i class="fa fa-user"></i></span>
-									</div>
-									<input class="form-control" type="text" name="name" id="name" placeholder="your name">
-								</div>
-							</div>
-							<div class="form-group text-monospace">
-								<label for="email">Email</label>
-								<div class="input-group">
-									<div class="input-group-prepend">
-										<span class="input-group-text"><i class="fa fa-envelope"></i></span>
-									</div>
-									<input class="form-control" type="email" name="email" id="email" placeholder="email">
-								</div>
-							</div>
-							<div class="form-group text-monospace">
-								<label for="subject">Subject</label>
-								<div class="input-group">
-									<div class="input-group-prepend">
-										<span class="input-group-text"><i class="fa fa-lightbulb"></i></span>
-									</div>
-									<input class="form-control" type="text" name="subject" id="subject" placeholder="subject">
-								</div>
-							</div>
-							<div class="form-group text-monospace">
-								<label for="message">Message</label>
-								<div class="input-group">
-									<div class="input-group-prepend">
-										<span class="input-group-text"><i class="fa fa-comment"></i></span>
-									</div>
-									<textarea name="message" rows="5" id="message" class="form-control"
-												 placeholder="Have a question or a professional inquiry? Leave a message!"></textarea>
-								</div>
-								<div class="g-recaptcha" data-sitekey="6LeRznsUAAAAAMdkxUPFa6KLY_rjEiPs3PlBwzo-"></div>
-							</div>
-							<div class="list-group">
-								<button class="btn btn-success" type="submit">Submit</button>
-								<button class="btn btn-dark" type="reset">Reset</button>
-							</div>
-
-						</form>
-					</div>
-				</div>
-				<!--empty area for form error/success output-->
-				<div class="row">
-					<div class="col-xs-12">
-						<div id="output-area"></div>
 					</div>
 				</div>
 			</div>
+
 		</section>
 
 
