@@ -136,89 +136,34 @@
 
 		<!-- Portfolio -->
 
-
-
 		<section id="portfolio" class="bg-light">
 			<h1 class="font-weight-bold text-center text-monospace display-5 mb-4">Portfolio</h1>
 			<div class="container-fluid">
-
-				<div class="row rounded shadow-lg m-5">
-
-					<div class="col-4-lg col-1-sm col-4-md">
-
-					<div class="card-deck">
-						<a class="card bg-light border border-dark">
-							<img class="card-img-top" src="..." alt="Card image cap">
-							<div class="card-body">
-								<h5 class="card-title text-monospace font-weight-bold text-center">Philips Badge Company</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-								</p>
-								<p class="card-text">
-									<small class="text-muted">Last updated...</small>
-								</p>
-							</div>
-						</a>
-						<a class="card bg-light text-monospace border border-dark">
-							<img class="card-img-top" src="..." alt="Card image cap">
-							<div class="card-body">
-								<h5 class="card-title text-monospace font-weight-bold text-center">MadLibs</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-								</p>
-								<p class="card-text">
-									<small class="text-muted">Last updated...</small>
-								</p>
-							</div>
-						</a>
-						<a class="card bg-light text-monospace border border-dark">
-							<h5 class="card-title text-center lead font-weight-bold text-danger pt-4">505FoodTruckFinder</h5>
-							<img class="card-img-top" src="images/505foodtrucklogo.png" alt="Card image cap">
-							<div class="card-body">
-								<p class="card-text">Part of a small dev team that built an application to connect
-									Foodtruck
-									owners with their customers. Problem: Finding infomation Used PHP, MYSQL, and Google Maps
-									JavaScript API for the backend and Angular the front end. </p>
-								<p class="card-text">
-									<small class="">Last updated November 12, 2018</small>
-								</p>
-							</div>
-						</a>
-						<a class="card bg-light text-monospace border border-dark">
-							<img class="card-img-top" src="..." alt="Card image cap">
-							<div class="card-body">
-								<h5 class="card-title font-weight-bold text-center">Star Wars</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-								</p>
-								<p class="card-text">
-									<small class="text-muted">Last updated...</small>
-								</p>
-							</div>
-						</a>
-						<a class="card bg-light text-monospace border border-dark">
-							<img class="card-img-top" src="..." alt="Card image cap">
-							<div class="card-body">
-								<h5 class="card-title font-weight-bold text-center">Turbine</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-								</p>
-								<p class="card-text">
-									<small class="text-muted">Last updated...</small>
-								</p>
-							</div>
-						</a>
+				<div class="row rounded m-5">
+					<div class="col-lg-12">
+						<div class="card-group">
+							<a class="card bg-light text-monospace border border-dark m-2" href="https://github.com/dsanderson90/react-playground/tree/master/src/MadLibs">
+								<img class="card-img-top" src="http://wfuogb.com/wp-content/uploads/2018/09/madlibs.jpeg" alt="Card image cap">
+								<div class="card-block">
+									<h5 class="card-title font-weight-bold text-center">Mad Libs (React)</h5>
+								</div>
+							</a>
+							<a href ="https://github.com/FoodTruckFinder/capstone"class="text-dark card bg-light text-monospace border border-dark m-2">
+								<img class="card-img-top" src="https://github.com/FoodTruckFinder/capstone/blob/master/static-ui/images/FTF-logo.png?raw=true" alt="Card image cap">
+								<div class="card-block">
+									<h5 class="card-title font-weight-bold text-center">505FoodTruckFinder (Angular5)</h5>
+								</div>
+							</a>
+							<a href="https://github.com/dsanderson90/starwars-react" class="text-dark card bg-light text-monospace border border-dark m-2">
+								<img class="card-img-top" src="https://cdn.shopify.com/s/files/1/0257/6087/products/0-StarWars-Logo-bk_Single_Front.png?v=1543510625" alt="Card image cap">
+								<div class="card-block">
+									<h5 class="card-title font-weight-bold text-center">Star Wars (React)</h5>
+								</div>
+							</a>
+						</div>
 					</div>
-				</div>
-				</div>
-			</div>
+
 		</section>
-
-
 
 		<!-- Testimonials -->
 
